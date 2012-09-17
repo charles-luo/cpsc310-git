@@ -274,9 +274,7 @@ public class StockWatcher implements EntryPoint {
     changeWidget.setStyleName(changeStyleName);
   }
   
-  private void pushConflict(){
-	  System.out.println("Here is an effort to generate conflict");
-  }
+
 
   /**
    * Convert the string of JSON into JavaScript object.
